@@ -18,7 +18,7 @@ paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://www.eluniverso.com/sites/default/files/styles/powgallery_1280/public/fotos/2018/06/universidad_de_guayaquil_24330422.jpg?itok=pV8zrxN3
-theme_color: 546E7A
+theme_color: 174381
 
 google_analytics:
 # hydrogen-blog date format
