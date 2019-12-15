@@ -17,7 +17,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://api.dujin.org/bing/1920.php
+background: https://www.eluniverso.com/sites/default/files/styles/powgallery_1280/public/fotos/2018/06/universidad_de_guayaquil_24330422.jpg?itok=pV8zrxN3
 theme_color: 546E7A
 
 google_analytics:
