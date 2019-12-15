@@ -22,6 +22,3 @@ Github: [link9596](https://github.com/link9596)
 
 <center>扫下方付款二维码即可向作者捐赠!</center>
 
-![wechat](https://atlinker.cn/pay/wechat.png)
-
-![pay](https://atlinker.cn/pay/apay.png)
