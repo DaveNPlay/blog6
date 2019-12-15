@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-tagline: 关于我 ~
+title: Sobre Mi
+tagline: Vida Academica
 sitetime: display
 permalink: /about.html
 ---
