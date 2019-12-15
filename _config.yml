@@ -35,10 +35,10 @@ plugins:
 
 # social account
 image:
-twitter:
+twitter: https://mobile.twitter.com/MiteArboleda
   username:
 #  site:
-facebook:
+facebook: https://www.facebook.com/valerianatalia.mitearbolada
   #publisher: null
   #profile_id: null
   app_id: null
