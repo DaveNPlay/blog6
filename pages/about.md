@@ -1,24 +1,17 @@
 ---
 layout: page
-title: Sobre Mi
-tagline: Vida Academica
+title: Contacto
+tagline: 
 sitetime: display
 permalink: /about.html
 ---
 
-## #作者
+## Contacto
 
 你可以通过以下方式联系作者
 
-QQ: 1316341442
+Email: <a href=" "> </a>
 
-Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
+Github: [Valeriaarb1997](https://github.com/valeriaarb1997)
 
-Github: [link9596](https://github.com/link9596)
-
-## #捐助我
-
-本主题使用免费，也是作者长期工作的结晶，如果你喜欢主题\~想支持作者，欢迎给作者捐赠~
-
-<center>扫下方付款二维码即可向作者捐赠!</center>
 
